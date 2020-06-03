@@ -11,6 +11,7 @@ namespace Chapter3_StringPractice
             for (int i = 0; i < str.Length; i++) {
                 arr1[i] = str.Split(" ");
                 Console.WriteLine(arr1[i]);
+                consolde
 
 
 
